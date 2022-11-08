@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section
 
-![Design preview for the Testimonials grid section coding challenge](images/Capture.PNG.png)
+![Design preview for the Testimonials grid section coding challenge](images/Capture.png)
 
 # TECHSTACK:
 
