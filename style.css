@@ -96,7 +96,7 @@ main{
 
 .first-para{
     font-size: 18px;
-    font-weight: 500;
+    font-weight: bold;
     line-height: 23px;
     margin-bottom: 21px;
     color: var(--Light_grayish_blue);
