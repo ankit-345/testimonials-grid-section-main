@@ -5,9 +5,7 @@ body{
     padding: 0;
     box-sizing: border-box;
     background-color: var(--Light_grayish_blue) !important;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 100vh;
 }
 
 :root{
@@ -25,6 +23,9 @@ body{
 main{
    height: 100%;
    width: 100% !important;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
 
 
@@ -111,6 +112,7 @@ main{
 #second-section > #box3{
     padding: 18px 30px 18px 30px !important;
     width: 263px;
+    height: 633px;
 }
 
 #box2, #box4{
@@ -135,7 +137,7 @@ main{
 
 }
 
-#text-color{
+.text-color{
     color: hsl(210deg 2% 56% / 50%);
 }
 #box4{ background-color: var(--White) !important; }
@@ -179,11 +181,13 @@ main{
         margin: 0px;
         display: flex;
         justify-content: center;
+        padding-bottom: 60px !important;
     }
 
     #second-section > #box3{
         width: 360px !important;
         margin: 10px;
+        height: 450px;
     }
 }
 
