@@ -113,18 +113,21 @@ main{
     padding: 18px 30px 18px 30px !important;
     width: 263px;
     height: 633px;
+    box-shadow: 0px 6px 29px 0px black;
 }
 
 #box2, #box4{
     width: 269px !important;
     height: 300px;
     flex:none;
+    box-shadow: 0px 6px 29px 0px black;
 }
 
 #box1, #box5{
     width: 560px !important;
     height: 300px;
     flex: none;
+    box-shadow: 0px 6px 29px 0px black;
 }
 
 #box1{ background: var(--Moderate_violet) url('images/bg-pattern-quotation.svg') no-repeat;
